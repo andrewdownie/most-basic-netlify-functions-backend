@@ -2,6 +2,7 @@
 https://flaviocopes.com/netlify-functions/
 
 ## 2) Add CORS (Access-Control-Allow-Origin header) so you can access your function as needed
+A value of '&ast;' isn't recommended, but it sure is convenient
 `exports.handler = (event, context, callback) => {
   callback(null, {
     statusCode: 200,
