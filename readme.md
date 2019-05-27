@@ -3,7 +3,7 @@ https://flaviocopes.com/netlify-functions/
 
 ## 2) Add CORS (Access-Control-Allow-Origin header) to the response header so you can access your function as needed from a front end hosted from another url
 A value of '&ast;' isn't recommended, but it sure is convenient  
-In the above example, this would get added to the test.js file
+In the above example, this would overwrite the contents of the test.js file
 
 ```javascript
 exports.handler = (event, context, callback) => {
