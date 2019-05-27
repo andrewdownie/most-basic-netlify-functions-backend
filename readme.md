@@ -14,4 +14,5 @@ https://flaviocopes.com/netlify-functions/
 
 ## 3) Connect your netlify function up to faunadb
 ???
+
 profit
