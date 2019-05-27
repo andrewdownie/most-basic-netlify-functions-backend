@@ -1,7 +1,7 @@
 ## 1) The most basic netlify functions example:
 https://flaviocopes.com/netlify-functions/
 
-## 2) Add CORS so you can access your function as needed
+## 2) Add CORS (Access-Control-Allow-Origin header) so you can access your function as needed
 `exports.handler = (event, context, callback) => {
   callback(null, {
     statusCode: 200,
