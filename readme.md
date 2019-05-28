@@ -17,8 +17,3 @@ exports.handler = (event, context, callback) => {
   })
 }
 ```
-
-## 3) Connect your netlify function up to faunadb
-???
-
-profit
