@@ -1,4 +1,4 @@
-**Description:** Super simple example of how to use netlify functions as a backend in a seperate repo from a front end. Database integration requires webpack bundling modules and won't be covered here. In fact I don't recommend using this as a starting point other than for learning. For a useful starting point with netlify use the netlify-lambda npm package, which I will be covering here: https://github.com/andrewdownie/netlify-functions-using-netlify-lambda.
+**Description:** Super simple example of how to use netlify functions as a backend in a seperate repo from a front end. Database integration requires webpack bundling modules and won't be covered here. In fact I don't recommend using this as a starting point other than for learning. For a useful starting point with netlify learn to use the netlify-lambda npm package, which I will be covering here: https://github.com/andrewdownie/netlify-functions-using-netlify-lambda.
 
 ## 1) The most basic netlify functions example:
 https://flaviocopes.com/netlify-functions/
