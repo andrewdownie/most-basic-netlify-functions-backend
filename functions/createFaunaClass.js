@@ -6,7 +6,7 @@
     no checks are done, no errors reported, nothing is flexible or clever here.
 */
 
-import faunadb from 'faunadb';
+const faunadb = require('faunadb');
 const q = faunadb.query;
 
 const key = process.env.FAUNADB_SERVER_SECRET;
