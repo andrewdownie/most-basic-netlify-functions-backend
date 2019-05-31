@@ -22,3 +22,7 @@ exports.handler = (event, context, callback) => {
   })
 }
 ```
+
+
+Next tutorial:  
+https://github.com/andrewdownie/standalone-serverless-backend-using-netlify-lambda
